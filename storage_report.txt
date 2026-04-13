@@ -1,0 +1,40 @@
+
+===== S3 ANALYSIS =====
+
+
+Bucket: optimizertest-bucket-1
+Size (GB): 0.0
+Current Cost: $0.0
+Glacier Cost: $0.0
+Potential Savings: $0.0
+Recommendation: Keep as is
+
+Bucket: optimizertest-bucket-2
+Size (GB): 0.0
+Current Cost: $0.0
+Glacier Cost: $0.0
+Potential Savings: $0.0
+Recommendation: Keep as is
+
+Bucket: optimizertest-bucket-3
+Size (GB): 0.0
+Current Cost: $0.0
+Glacier Cost: $0.0
+Potential Savings: $0.0
+Recommendation: Keep as is
+
+===== EBS ANALYSIS =====
+
+
+Volume: vol-05d7dab3d492641bf
+Size: 10 GB
+Status: Unattached
+Monthly Cost: $0.8
+Recommendation: Delete volume
+
+===== SNAPSHOT ANALYSIS =====
+
+
+Snapshot: snap-0c3e3dc7c75138da9
+Age: 4 days
+Recommendation: Keep snapshot
